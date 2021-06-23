@@ -6,15 +6,11 @@ class QuizBrain {
     Question('python is the best programming language', true),
     Question('testing a software is not important', false),
     Question('Teresina is cold', false),
-    Question('Brasil é o melhor país do mundo',
-        true),
+    Question('Brasil é o melhor país do mundo', true),
     Question('56 x 88 = 200546', false),
     Question('we will be free from covid next year', true),
-    Question(
-        'frontend > backend', false),
-    Question(
-        '',
-        false),
+    Question('frontend > backend', false),
+    Question('flutter is easy', true),
     Question('every politician is honest', false),
     Question('5 + 5 = 10', true),
   ];
